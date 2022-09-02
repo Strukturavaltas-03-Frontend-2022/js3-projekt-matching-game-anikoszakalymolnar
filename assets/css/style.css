@@ -46,7 +46,11 @@ body {
     transform: rotateY(180deg);
 }
 
-/* .card:hover .card--inner*/
 .flipCard {
     transform: rotateY(180deg);
+}
+
+.message {
+    font-size: 30px;
+    margin-top: 10px;
 }
